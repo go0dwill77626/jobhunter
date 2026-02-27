@@ -14,7 +14,7 @@ The system is built as a containerized microservice architecture:
 * **AI Layer:** Employs **Gemini 1.5 Flash** for high-speed scoring (0-100) and structured JSON output.
 * **Sinks:** Persists all leads in **Google Sheets**; triggers alerts for matches >70% via the **Telegram Bot API**.
 
-![Orchestration Workflow](orchestration.png)
+![Orchestration Workflow](orchestrationimage.png)
 
 
 ## 🚀 Tech Stack
